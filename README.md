@@ -10,4 +10,6 @@ Find more about me: <a href="http://madhavbahl.tech/">Madhav Bahl</a> <br />
 
 ##### MADHAV BAHL <kbd>[madhavbahl.tech](http://madhavbahl.tech) / [LinkedIn](https://www.linkedin.com/in/madhavbahl/) / [Github](https://www.github.com/MadhavBahlMD) / [Medium](https://medium.com/@madhavbahl10) / [E-Mail](mailto:madhavbahl@gmail.com)</kbd>
 
+## How to contribute ? 
+- Follow Contributon Guidelines mentioned [here](https://github.com/HITK-TECH-Community/Community-Website/CONTRIBUTING.md)
 ------
